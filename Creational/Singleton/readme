@@ -1,0 +1,1 @@
+Singleton pattern is pattern when you want to make only on instance from some class i done it with log class which is sealed to not make any class can inherit  from it 
